@@ -24,3 +24,9 @@ Su propósito es prevenir incidentes mediante alertas visuales y sonoras.
 | Buzzer activo | Emite sonido de alerta | 1.50 |
 | Cables y Protoboard | Conexiones eléctricas | 3.00 |
 | Fuente 5V | Alimentación del sistema | 2.00 |
+
+## ⚙️ Funcionamiento general
+1. El sensor ultrasónico mide distancia.  
+2. Si la distancia es menor al umbral crítico, el buzzer emite una alarma.  
+3. El sensor PIR detecta movimiento y activa una alerta adicional.  
+4. La LCD muestra datos en tiempo real.
