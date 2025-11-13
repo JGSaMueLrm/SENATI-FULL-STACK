@@ -36,3 +36,10 @@ Su propósito es prevenir incidentes mediante alertas visuales y sonoras.
 - Monitoreo en laboratorios 🔬  
 - Proyectos educativos de IoT 🎓  
 - Automatización del hogar 🏠  
+
+## ✍️ Autor  
+**Jose Gabriel Ramírez Mamani**  
+Proyecto académico SENATI — Curso Full Stack.
+
+## 🧰 Licencia  
+Licencia **MIT**: libre uso, modificación y distribución con atribución al autor original.
