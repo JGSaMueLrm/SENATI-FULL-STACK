@@ -47,3 +47,6 @@ Licencia **MIT**: libre uso, modificación y distribución con atribución al au
 ## ✅ Estado final del proyecto  
 Repositorio completo, con documentación, estructura HTML y archivos multimedia.  
 Versión lista para presentación académica y revisión docente.
+
+
+📌 Cada carpeta y archivo está organizado para mantener una estructura clara y profesional, facilitando futuras actualizaciones.
