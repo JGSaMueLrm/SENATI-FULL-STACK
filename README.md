@@ -30,3 +30,9 @@ Su propósito es prevenir incidentes mediante alertas visuales y sonoras.
 2. Si la distancia es menor al umbral crítico, el buzzer emite una alarma.  
 3. El sensor PIR detecta movimiento y activa una alerta adicional.  
 4. La LCD muestra datos en tiempo real.
+
+## 🧠 Aplicaciones prácticas
+- Seguridad en empresas tecnológicas 🏢  
+- Monitoreo en laboratorios 🔬  
+- Proyectos educativos de IoT 🎓  
+- Automatización del hogar 🏠  
